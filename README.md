@@ -9,7 +9,8 @@
 - Xem và quản lý danh mục món ăn
 - Quản lý các món ăn cụ thể
 - Quản lý đơn hàng từ khách hàng
-- Giao diện quản trị (Admin) với chức năng thêm/sửa/xóa
+- Giao diện quản trị (Admin) với chức năng thêm/sửa/xóa sản phẩm, danh mục sản phẩm
+- Thống kê đơn hàng
 - Giao diện người dùng đơn giản, dễ sử dụng
 
 ## Cấu Trúc Thư Mục
@@ -38,7 +39,7 @@
 
 1. **Tải mã nguồn về**
    git clone git về
-   
+
    cd website_cafe
 
 2. **Chạy docker compose**
