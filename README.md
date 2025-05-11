@@ -38,9 +38,11 @@
 
 1. **Tải mã nguồn về**
    git clone git về
+   
    cd website_cafe
 
 2. **Chạy docker compose**
+
 docker-compose up --build -d
 
 Docker sẽ tạo các container cho:
