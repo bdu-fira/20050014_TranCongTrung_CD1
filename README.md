@@ -2,6 +2,8 @@
 
 Đây là một ứng dụng web đơn giản viết bằng PHP dùng để quản lý quán cafe hoặc nhà hàng, bao gồm quản lý thực đơn, danh mục món ăn, đơn hàng và quản trị cho quản lý.
 
+![Banner quán cafe](images/readme.png)
+
 ## Tính Năng
 
 - Xem và quản lý danh mục món ăn
@@ -35,7 +37,7 @@
 ##  Cài Đặt Bằng Docker
 
 1. **Tải mã nguồn về**
-   git clone git vềvề
+   git clone git về
    cd website_cafe
 
 2. **Chạy docker compose**
@@ -53,6 +55,7 @@ Giao diện người dùng (khách hàng):
 
 Giao diện quản trị (admin):
     http://localhost:8080/admin/login.php
+
 Tài khoản mặc định: admin / admin
 
 Lưu ý:
